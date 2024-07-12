@@ -115,6 +115,7 @@ const putImg = () =>{
     e.style.fontSize ="50px";
     e.style.display ="inline";
     e.style.margin = "0px";
+     e.style.width = "40vw";
     e.style.color="orange";
     e.style.textShadow="0 1px 1px 1px #000";
   
